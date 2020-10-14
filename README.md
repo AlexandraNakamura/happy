@@ -21,9 +21,7 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+
 </p>
 
 ## :information_source: What's Next Level Week?
@@ -42,7 +40,7 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 Happy is a project developed based on Children's Day. 
 That aims to connect people to orphanages that allow to make a children's day more special.
 
-
+Acesse project [Netlify](https://happy-fredericoespeschit.netlify.app/)
 
 
 ## :rocket: Technologies
