@@ -8,11 +8,6 @@
   <a href="https://www.linkedin.com/in/fredericoespeschit/">
     <img alt="Made by fredericoespeschit" src="https://img.shields.io/badge/made%20by-fredericoespeschit-%2304D361">
   </a>
-  
-  <a href="https://github.com/fredericoespeschit/happy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fredericoespeschit/happy">
-  </a>
-
  
 </p>
 
@@ -20,7 +15,7 @@
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
