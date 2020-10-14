@@ -9,13 +9,19 @@
     <img alt="Made by fredericoespeschit" src="https://img.shields.io/badge/made%20by-fredericoespeschit-%2304D361">
   </a>
  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/fredericoespeschit/happy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/fredericoespeschit/happy?style=social">
+  </a>
+
 </p>
 
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 
 </p>
 
@@ -51,3 +57,6 @@ This project was developed with the following technologies:
 
 To access the layout use [Figma](https://www.figma.com/file/wHQ5kxaib5CbDS6o2XaIXU/Happy-Web-Copy?node-id=0%3A1).
 
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/fredericoespeschit/happy/blob/master/LICENSE) for details.
