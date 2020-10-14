@@ -42,9 +42,7 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 Happy is a project developed based on Children's Day. 
 That aims to connect people to orphanages that allow to make a children's day more special.
 
-<h1 align="center">
-     <img src="./public/happy-print1.png" alt="Print" width="600px>
-</h1>
+
 
 
 ## :rocket: Technologies
