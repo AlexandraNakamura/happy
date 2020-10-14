@@ -43,7 +43,7 @@ That aims to connect people to orphanages that allow to make a children's day mo
 
 Acesse project [Netlify](https://happy-fredericoespeschit.netlify.app/)
 
-# Screenshots
+## 📸 Screenshots
 Click to expand.<br>
 <img src="https://github.com/fredericoespeschit/happy/blob/main/public/happy-print1.png" width="49%"/>
 
